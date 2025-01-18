@@ -1,10 +1,122 @@
+button
+{
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 5px;
+  border-width: 0px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
 .Uber-Requestnow
+{
+  background-color: black;
+  color: white; 
+}
+.Uber-Requestnow:hover
+{
+  opacity: 0.5; 
+}
+
+.Amazon-AddtoCart
+{
+  background-color: rgb(240, 207, 45);
+}
+.Amazon-AddtoCart:hover
+{
+  background-color: rgb(255, 213, 0);
+}
+
+.GitHub-Signup
+{
+  background-color: rgb(46, 164, 79);
+  color: white;
+  border-radius: 5px;
+}
+.GitHub-Signup:hover
+{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.Bootstrap-Getstarted
+{
+  background-color: rgb(121, 82 , 179);
+  color: white;
+  border-radius: 3px;
+}
+.Bootstrap-Getstarted:hover
+{
+  background-color: rgb(120, 63, 206);
+}
+
+.Bootstrap-Download
+{
+  color: rgb(108, 117, 125);
+  border-radius: 3px;
+  border-width: 0.8px;
+}
+.Bootstrap-Download:hover
 {
   background-color: black;
   color: white;
 }
 
-.Amazon-AddtoCart
+.LinkedIn-Applyoncompanywebsite
 {
-  background-color: rgb(255, 216 , 20);
+  background-color: rgb(10, 102, 194);
+  color: white;
 }
+.LinkedIn-Applyoncompanywebsite:hover
+{
+  background-color: rgb(9, 93, 177);
+}
+
+.LinkedIn-Save
+{
+  color: rgb(10, 102, 194);
+  border-width: 0.5px;
+  border-color: blue;
+}
+.LinkedIn-Save:hover
+{
+  border-width: 0.5px;
+  background-color: rgb(79, 148, 216);
+}
+
+.Amazon
+{
+  color: rgb(0, 113, 133);
+  text-decoration: none;
+}
+.Amazon:hover
+{
+  color: orange;
+}
+
+.Cart
+{
+  background-color: rgb(255, 216,20);
+}
+.Cart:hover
+{
+  background-color: rgba(184, 155, 12, 0.822);
+}
+.Cart:active
+{
+  opacity: 0.5;
+}
+
+.Buy
+{
+  background-color: rgb(255,164,28);
+}
+.Buy:hover
+{
+  background-color: rgb(202, 132, 26);
+}
+.Buy:active
+{
+  opacity: 0.5;
+}
+
